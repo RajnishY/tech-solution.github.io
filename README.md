@@ -525,3 +525,5 @@ Deploying JAVA Web Application using NetBeans IDE
 13.Tere is a Contact page where the some FAQ and Contact us Form.
 
 14. At the top right is a logout button which you take you back to the login page.
+
+15. e-com.sql is a DataBase of the Project.
