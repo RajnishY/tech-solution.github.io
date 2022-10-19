@@ -1,5 +1,8 @@
 # tech-solution.github.io
 Deploying JAVA Web Application using NetBeans IDE
+#output gif
+![outputvideo](https://github.com/RajnishY/tech-solution.github.io/blob/991cb34c13de439a30b1a4a260f578d4acf267a9/ezgif.com-gif-maker.gif)
+
 # Step by Step Tutorial
 
 1.Download and Install Netbeans IDE and JDK along with it.
